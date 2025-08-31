@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+dist/
+build/
+*.spec
+
+# User-generated files
+*.sbk
+app/config.toml
+app/keycheck.bin
+app/logs/
